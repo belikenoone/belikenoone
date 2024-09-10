@@ -1,6 +1,8 @@
 # Hey there! 👋 I'm Hemant Sharma
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76868&width=435&lines=Full-stack+Developer+%7C+Code+Ninja+%7C+Bug+Whisperer)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76868&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Bug+Whisperer;Tech+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
 
 ## 👨‍💻 About Me:
 **👋 Hey there, I’m Hemant Sharma, your friendly neighborhood full-stack developer!**  
